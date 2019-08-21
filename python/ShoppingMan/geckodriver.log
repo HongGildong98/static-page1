@@ -1,0 +1,822 @@
+1566295221942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.IpneRWQ96Myi"
+1566295222971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566295222971	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566295222972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566295222972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566295225105	Marionette	INFO	Listening on port 58291
+1566295225210	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t1566295235050	Marionette	INFO	Stopped listening on port 58291
+
+KLIB_SelfTest return : KLR_OK
+1566295761398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.wXjZugz7ljH0"
+1566295761947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566295761948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566295761948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566295761948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566295763917	Marionette	INFO	Listening on port 58753
+1566295764141	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ssl.pstatic.net/imgshopping/stylewindow/p/min_20190813114329/js/lib/common/require.js, line 1: Error: Script error for: https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?2019082019
+http://requirejs.org/docs/errors.html#scripterror
+1566295858510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.hzBwarHWtMrT"
+1566295859060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566295859060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566295859060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566295859060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566295861098	Marionette	INFO	Listening on port 58997
+1566295861235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ssl.pstatic.net/imgshopping/stylewindow/p/min_20190813114329/js/lib/common/require.js, line 1: Error: Script error for: https://swindow.naver.com/gnb/requirejs/conf?svcType=HOME
+http://requirejs.org/docs/errors.html#scripterror
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7624, Chrome_ChildThread] WARNING: pipe error: 109: file[Child 7376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1566296285095	Marionette	INFO	Stopped listening on port 58997
+
+KLIB_SelfTest return : KLR_OK
+n: about:reader*
+1566295923582	Marionette	INFO	Listening on port 59180
+1566295923885	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_1566295933735	Marionette	INFO	Stopped listening on port 59180
+
+KLIB_SelfTest return : KLR_OK
+st: Invalid extension permission: resource://pdf.js/
+1566295927537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566295929495	Marionette	INFO	Listening on port 59211
+1566295929686	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Parent 2544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4920, Chrome_ChildThread] WARNING: pipe error: 1091566295934714	Marionette	INFO	Stopped listening on port 59211
+
+KLIB_SelfTest return : KLR_OK
+1566296290149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.MLmHzPt710et"
+1566296290698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566296290698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566296290698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566296290698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566296292608	Marionette	INFO	Listening on port 59354
+1566296292964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ssl.pstatic.net/imgshopping/stylewindow/p/min_20190813114329/js/lib/common/require.js, line 1: Error: Script error for: https://swindow.naver.com/gnb/requirejs/conf?svcType=HOME
+http://requirejs.org/docs/errors.html#scripterror
+[Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_w[Child 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t1566296299435	Marionette	INFO	Stopped listening on port 59354
+
+KLIB_SelfTest return : KLR_OK
+1566356854637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.eVEKTbCQ3qkf"
+1566356856238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566356856238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566356856238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566356856239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566356858905	Marionette	INFO	Listening on port 49180
+1566356859096	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Child 3876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tacsk_1565704921/build/src/ipc/chromium/src/chrome/,common/ipc_channel_win.cc, line 341
+ line 341[Child 3876, Chrome_ChildThread] WARNING: pi
+[Child 3076, Chrome_ChildThread] WARNING: pipe error: [Child 4100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4100, Chrome_ChildThread] WARNING: pipe er1566356932842	Marionette	INFO	Stopped listening on port 49180
+
+KLIB_SelfTest return : KLR_OK
+on permission: resource://pdf.js/
+1566356864181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566356866311	Marionette	INFO	Listening on port 49230
+1566356866498	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5212, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5212, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2216, Chrome_ChildThread] WARNING: pipe error: 1[Child 2848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2028, Chrome_ChildThread] WARNING: pipe error[Parent 5212, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566356931771	Marionette	INFO	Stopped listening on port 49230
+
+KLIB_SelfTest return : KLR_OK
+ 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 6712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6712, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 6424, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566356925735	Marionette	INFO	Stopped listening on port 49348
+
+KLIB_SelfTest return : KLR_OK
+1566359151815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.OlgTM7pNCSZY"
+1566359152836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566359152836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566359152836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566359152836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566359154949	Marionette	INFO	Listening on port 50452
+1566359155043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1566359203397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.1Z3gt0xc3ond"
+1566359203953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566359203953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566359203954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566359203954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566359205884	Marionette	INFO	Listening on port 50492
+1566359206173	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/buil[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8164, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566359276942	Marionette	INFO	Stopped listening on port 50492
+
+KLIB_SelfTest return : KLR_OK
+on.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566359240617	Marionette	INFO	Listening on port 50525
+1566359240741	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7004, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chr[Child 5120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5120, Chrome_ChildThread] WARNING: pipe error: 11566359275426	Marionette	INFO	Stopped listening on port 50525
+
+KLIB_SelfTest return : KLR_OK
+1566359358341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.Chuu6zj60oNK"
+1566359358872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566359358872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566359358872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566359358872	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566359360744	Marionette	INFO	Listening on port 50577
+1566359361090	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 6248, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6248, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6248, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6248, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360514179	Marionette	INFO	Stopped listening on port 50577
+
+KLIB_SelfTest return : KLR_OK
+adcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 2672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2672, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1566360514790	Marionette	INFO	Stopped listening on port 50627
+
+KLIB_SelfTest return : KLR_OK
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 4464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4464, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4464, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360515368	Marionette	INFO	Stopped listening on port 50680
+
+KLIB_SelfTest return : KLR_OK
+109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5080, Chrome_ChildThrea[Parent 1888, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566359571126	Marionette	INFO	Stopped listening on port 50780
+
+KLIB_SelfTest return : KLR_OK
+st: Invalid extension permission: about:reader*
+1566359559476	Marionette	INFO	Listening on port 50827
+1566359559751	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9140, Chrome_ChildThread] WARNIN[Child 9272, Chrome_ChildThread] WARNING: G: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/[Child 9140, Chrome_ChildThread] common/ipc_channel_win.cc, line 341
+[Parent 8828, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9096, Chrome_ChildThre1566360515730	Marionette	INFO	Stopped listening on port 50827
+
+KLIB_SelfTe[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10028, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/[chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_156570Child 8120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10028, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 9396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921[Parent 8660, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8660, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8660, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6572, Chrome_ChildThread] WARNING: pipe1566360516671	Marionette	INFO	Stopped listening on port 51819
+
+KLIB_SelfTest return : KLR_[Parent 11052, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11052, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11052, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/tas[Parent 11052, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360517295	Marionette	INFO	Stopped listening on port 52028
+
+KLIB_SelfTest return : KLR_OK
+der*
+1566360487980	Marionette	INFO	Listening on port 52079
+1566360488513	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12112, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12112, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/co[Parent 12112, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12112, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360508552	Marionette	INFO	Stopped listening on port 52079
+
+KLIB_SelfTest return : KLR_OK
+1566360556666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.b0PYUvsICccV"
+1566360557836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566360557836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566360557836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566360557836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566360559758	Marionette	INFO	Listening on port 52281
+1566360559957	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4076, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 10164, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360582657	Marionette	INFO	Stopped listening on port 52281
+
+KLIB_SelfTest return : KLR_OK
+6360565574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566360567515	Marionette	INFO	Listening on port 52327
+1566360567743	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[e Ch341ild 10876, Chrome_Chil
+dThread] WARNING: pipe error[Child 6272, Chrome_ChildThread] WARNING: pipe error: 109[Parent 1820, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1820, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360582322	Marionette	INFO	Stopped listening on port 52327
+
+KLIB_SelfTest return : KLR_OK
+1566360736523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.VrjWqAhfD5Mf"
+1566360737067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566360737067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566360737068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566360737068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566360739028	Marionette	INFO	Listening on port 52506
+1566360739272	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_156570[Child 8968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11472, Chrome_ChildThread] WARNING: pipe er[Child 8888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8888, Chrome_ChildThread] WARNING: pipe error: 109: file z[Parent 8908, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566360756566	Marionette	INFO	Stopped listening on port 52558
+
+KLIB_SelfTest return : KLR_OK
+1566360972893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.JVMkX5GIjhRJ"
+1566360973435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566360973436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566360973436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566360973436	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566360975353	Marionette	INFO	Listening on port 52909
+1566360975699	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://shopping.naver.com"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 12120, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL p[Parent 8316, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1566361745856	Marionette	INFO	Stopped listening on port 52946
+
+KLIB_SelfTest return : KLR_OK
+ror: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_Releas[Parent 9564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/[Parent 9564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5680, Chrome_Ch[Parent 9564, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1566362499465	Marionette	INFO	Stopped listening on port 52978
+
+KLIB_SelfTest return : KLR_OK
+rionette	INFO	Stopped listening on port 52909
+
+KLIB_SelfTest return : KLR_OK
+
+[Child 7120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7120, Chrome_[Parent 9956, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4236, Chrome_ChildThrea1566361748251	Marionette	INFO	Stopped listening on port 53049
+
+KLIB_SelfTest return : KLR_OK
+hots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566361193894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566361195894	Marionette	INFO	Listening on port 53080
+1566361196053	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11904, Chrome_ChildTh[Parent 10116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10116, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566361749335	Marionette	INFO	Stopped listening on port 53080
+
+KLIB_SelfTest return : KLR_OK
+: Invalid extension permission: about:reader*
+1566361201709	Marionette	INFO	Listening on port 53112
+1566361201852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Parent 10736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10736, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566361747462	Marionette	INFO	Stopped listening on port 53112
+
+KLIB_SelfTest return : KLR_OK
+WARN	TLS certificate errors will be ignored for this session
+[Parent 9496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_[Parent 9496, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566361746969	Marionette	INFO	Stopped listening on port 53329
+
+KLIB_SelfTest return : KLR_OK
+988, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566361746497	Marionette	INFO	Stopped listening on port 53379
+
+KLIB_SelfTest return : KLR_OK
+1566361760216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.OZZ241Ydw57e"
+1566361761290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566361761290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566361761290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566361761290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566361763246	Marionette	INFO	Listening on port 52140
+1566361763458	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9032, Chrome_ChildThread] WARNING: pipe error: 11566362630075	Marionette	INFO	Stopped listening on port 52140
+
+KLIB_SelfTest return : KLR_OK
+illa.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566361809556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566361811389	Marionette	INFO	Listening on port 52205
+1566361811832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Child 11028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11028, Chrome_ChildThread] WARNING: pipe error: 109:[Child 6376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6376, Chrome_ChildThre[Parent 4148, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566362500910	Marionette	INFO	Stopped listening on port 52205
+
+KLIB_SelfTest return : KLR_OK
+rg	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566362078270	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566362080186	Marionette	INFO	Listening on port 52285
+1566362080462	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c[Child 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrom[Parent 7356, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566362109952	Marionette	INFO	Stopped listening on port 52285
+
+KLIB_SelfTest return : KLR_OK
+1566362523785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.QvLUj6kdeNvi"
+1566362524325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566362524325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566362524326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566362524326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566362526265	Marionette	INFO	Listening on port 52341
+1566362526527	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 111[Child 11796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+6[Parent 7064, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566362629542	Marionette	INFO	Stopped listening on port 52341
+
+KLIB_SelfTest return : KLR_OK
+ extension permission: resource://pdf.js/
+1566362572012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566362573941	Marionette	INFO	Listening on port 52388
+1566362574301	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11364, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1566362577406	Marionette	INFO	Stopped listening on port 52388
+
+KLIB_SelfTest return : KLR_OK
+1566362593360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.YiDmCb4eEgQL"
+1566362593888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566362593888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566362593889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566362593889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566362595870	Marionette	INFO	Listening on port 52434
+1566362596073	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/s[Child 10456, Chrome[Parent 3152, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566362628913	Marionette	INFO	Stopped listening on port 52434
+
+KLIB_SelfTest return : KLR_OK
+: Reading manifest: Invalid extension permission: telemetry
+1566362614782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566362614782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566362616651	Marionette	INFO	Listening on port 52479
+1566362617035	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9016, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9016, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566362628144	Marionette	INFO	Stopped listening on port 52479
+
+KLIB_SelfTest return : KLR_OK
+1566369121342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.PqIeBFQ6esb3"
+1566369122382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566369122382	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566369122383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566369122383	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566369124731	Marionette	INFO	Listening on port 50578
+1566369125154	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 5604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5516, Chrome_ChildThread] WARN[Parent 5604, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566369790442	Marionette	INFO	Stopped listening on port 50578
+
+KLIB_SelfTest return : KLR_OK
+rds?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 2140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3524, Chrome_ChildThread] WARNING: pipe error: 109: file z1566369791656	Marionette	INFO	Stopped listening on port 50855
+
+KLIB_SelfTest return : KLR_OK
+n/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 5080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 5080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6708, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 5100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1566369799622	Marionette	INFO	Stopped listening on port 50908
+
+KLIB_SelfTest return : KLR_OK
+KLR_OK
+on permission: about:reader*
+1566369723350	Marionette	INFO	Listening on port 51277
+1566369723605	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9776, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9776, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566369794623	Marionette	INFO	Stopped listening on port 51277
+
+KLIB_SelfTest return : KLR_OK
+mission: mozillaAddons
+1566369729122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566369729122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566369729122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566369731388	Marionette	INFO	Listening on port 51325
+1566369731420	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10[Parent 5492, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9848, Chrome_ChildThread] WARNING: pipe error: 109[Parent 5492, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566369793532	Marionette	INFO	Stopped listening on port 51325
+
+KLIB_SelfTest return : KLR_OK
+40952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566369746201	Marionette	INFO	Listening on port 51461
+1566369746415	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12052, Chrome_ChildThread] W1566369792842	Marionette	INFO	Stopped listening on port 51461
+
+KLIB_SelfTest return : KLR_OK
+1566369832107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.ld8kyTz14YzP"
+1566369833252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566369833252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566369833253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566369833253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566369835161	Marionette	INFO	Listening on port 51651
+1566369835370	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5552, Chrome_ChildThread] WARNING: pipe error: 109: [Parent 9664, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9664, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_u[Child 10384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11020, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370662016	Marionette	INFO	Stopped listening on port 51699
+
+KLIB_SelfTest return : KLR_OK
+: Invalid extension permission: resource://pdf.js/
+1566369851079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566369852944	Marionette	INFO	Listening on port 51849
+1566369853220	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8664, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8664, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370[Parent 7144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7144, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 7144, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 7144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7144, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370557155	Marionette	INFO	Stopped listening on port 52401
+
+KLIB_SelfTest return : KLR_OK
+NING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3048, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_[Parent 4296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6324, Chrome_ChildThread] WARNING: pipe error: 109: 
+KLIB_SelfTest return : KLR_OK
+/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4296, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 4296, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370556880	Marionette	INFO	Stopped listening on port 52507
+
+KLIB_SelfTest return : KLR_OK
+hots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566370380992	Marionette	INFO	Listening on port 52662
+1566370381129	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/s[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5124, Chrome_ChildThread] WARNING: pipe[Child 3504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chi[Child 4848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/[Child 9856, Chrome_ChildThread] WARNING: 
+KLIB_SelfTest return : KLR_OK
+5704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/1566370556596	Marionette	INFO	Stopped listening on port 52729
+
+KLIB_SelfTest return : KLR_OK
+screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566370478723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566370481010	Marionette	INFO	Listening on port 52914
+1566370481358	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/ch[Parent 9788, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9788, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9788, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6920, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 9[Parent 9608, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/com1566370557189	Marionette	INFO	Stopped listening on port 52914
+
+KLIB_SelfTest return : KLR_OK
+:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9608, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9608, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 9608, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 12568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 9608, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370557470	Marionette	INFO	Stopped listening on port 52966
+
+KLIB_SelfTest return : KLR_OK
+1566370573118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.WsPr3oLZfLXJ"
+1566370574275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566370574275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566370574275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566370574276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566370576186	Marionette	INFO	Listening on port 53097
+1566370576347	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Child 14076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[[Child 13996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13996, Chrome_ChildThread] WARNING: pipe erro[Parent 13720, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370662154	Marionette	INFO	Stopped listening on port 53097
+
+KLIB_SelfTest return : KLR_OK
+ssion: about:reader*
+1566370634010	Marionette	INFO	Listening on port 53146
+1566370634300	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/ta[Child 9104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9104, Chrome_ChildThread] WARNI1566370651838	Marionette	INFO	Stopped listening on port 53146
+
+KLIB_SelfTest return : KLR_OK
+manifest: Invalid extension permission: telemetry
+1566370640459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566370640459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566370642481	Marionette	INFO	Listening on port 53198
+1566370642638	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12128, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12128, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 9008, Chrome_[Parent 12128, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370662912	Marionette	INFO	Stopped listening on port 53198
+
+KLIB_SelfTest return : KLR_OK
+build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/i[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565701566370655977	Marionette	INFO	Stopped listening on port 53347
+
+KLIB_SelfTest return : KLR_OK
+1566370899774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.dv3ZVHsetleH"
+1566370900331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566370900331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566370900331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566370900331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566370902228	Marionette	INFO	Listening on port 53589
+1566370902496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child 1080
+, Chrome_C[hCildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10944, Chrome_ChildThread] W[Parent 4964, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566370917243	Marionette	INFO	Stopped listening on port 53589
+
+KLIB_SelfTest return : KLR_OK
+1566371177591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile.gUEsQUqP0bCV"
+1566371178129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566371178129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1566371178130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566371178130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566371180126	Marionette	INFO	Listening on port 53672
+1566371180307	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3120, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566371391541	Marionette	INFO	Stopped listening on port 53672
+
+KLIB_SelfTest return : KLR_OK
+org': Reading manifest: Invalid extension permission: about:reader*
+1566371292103	Marionette	INFO	Listening on port 53725
+1566371292435	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/bui[Child 13768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13868, Chrome_ChildThread] WARNING: pipe 1566371390114	Marionette	INFO	Stopped listening on port 53725
+
+KLIB_SelfTest return : KLR_OK
+n permission: telemetry
+1566371311778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566371311778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566371313658	Marionette	INFO	Listening on port 53774
+1566371313956	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8952, Chrome_ChildThread] WARNI[NG: pCipeh error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+ild 9016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7848, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7848, Gecko_IOThread] WARNING: file z:/task_1565704921/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1566371387617	Marionette	INFO	Stopped listening on port 53774
+
+KLIB_SelfTest return : KLR_OK
+e	WARN	TLS certificate errors will be ignored for this session
+[Parent 8228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8228, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 1566371391540	Marionette	INFO	Stopped listening on port 53820
+
+KLIB_SelfTest return : KLR_OK
+371332571	Marionette	INFO	Listening on port 53957
+1566371332799	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565704921/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8200, Chrome_ChildThr1566371388336	Marionette	INFO	Stopped listening on port 53957
+
+KLIB_SelfTest return : KLR_OK
